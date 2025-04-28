@@ -1,8 +1,8 @@
 ## Hi there, I'm Emil 👋
 
-🧠 At the moment, I'm learning Computer Science on my own.<br/> 
+👤 I am 27 years old, based in Copenhagen, and hold a professional bachelor's degree in Information Technology and Economics.<br/>
 💼 I work as a Business Analyst.<br/>
-💡 I'm looking for small projects to start.<br/>
+🧠 At the moment, I'm learning Computer Science on my own.<br/> 
 💫 Outside of work, I stay active with fitness and football, enjoy gaming, and continuously seek to broaden my expertise within technology.<br/>
 
 
